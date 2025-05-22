@@ -1,6 +1,5 @@
 ## About Isaac
-- Software Engineer and Creative
-- Looking for a new opportunity
+- Product Engineer II @[Esri](https://github.com/Esri)
 - Founder and leader of [Braun Bauen](https://braunbauen.com)
 - Former Website Development Manager at [Southern Adventist University](https://www.southern.edu)
 - Passionate about creating exceptional user experiences
